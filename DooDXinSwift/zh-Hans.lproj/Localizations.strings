@@ -1,0 +1,11 @@
+/* 
+  Localizations.strings
+  DooDXinSwift
+
+  Created by sishengxiu on 2018/3/29.
+  Copyright © 2018年 ssx. All rights reserved.
+*/
+DoodHome = "豆信";
+DoodContact = "联系人";
+DoodDiscover = "发现";
+DoodMySelf = "我的";
